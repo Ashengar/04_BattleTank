@@ -5,3 +5,4 @@ Done in C++ using the Unreal 4 Engine (with Ben Tristram)
 
 ## Tutorial List
 * BT01 Github Notes & Assets
+* BT02 Game design Document (GDD)
